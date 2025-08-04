@@ -7,7 +7,7 @@ import {
   Server, 
   Cloud, 
   Database, 
-  Tool
+  Wrench
 } from 'lucide-react';
 
 const SkillsSection = ({ profileData }) => {
