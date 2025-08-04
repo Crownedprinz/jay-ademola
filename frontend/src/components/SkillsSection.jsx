@@ -17,7 +17,7 @@ const SkillsSection = ({ profileData }) => {
     backend: { icon: Server, color: 'bg-green-100 text-green-800', title: 'Backend' },
     cloud: { icon: Cloud, color: 'bg-orange-100 text-orange-800', title: 'Cloud & DevOps' },
     database: { icon: Database, color: 'bg-red-100 text-red-800', title: 'Database' },
-    tools: { icon: Tool, color: 'bg-gray-100 text-gray-800', title: 'Tools' }
+    tools: { icon: Wrench, color: 'bg-gray-100 text-gray-800', title: 'Tools' }
   };
 
   const skillsByCategory = profileData.skills.reduce((acc, skill) => {
