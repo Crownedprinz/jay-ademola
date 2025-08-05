@@ -68,6 +68,7 @@ const HeroSection = ({ profileData }) => {
               <Button 
                 variant="outline"
                 className="border-2 border-gray-300 text-gray-700 hover:bg-gray-50 px-8 py-3 rounded-lg font-semibold transition-all duration-300 hover:border-blue-600 hover:text-blue-600 flex items-center justify-center space-x-2"
+                onClick={() => window.open(profileData.contact.resume, '_blank')}
               >
                 <Download className="w-5 h-5" />
                 <span>Resume</span>
