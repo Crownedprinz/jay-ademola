@@ -112,23 +112,23 @@ From architecting cloud-native solutions that reduced infrastructure costs by 25
       description: "Built a two-stage BERT/RoBERTa pipeline for toxic comment detection, achieving 85% F1 score. Applied AIF360 for bias mitigation and SHAP for interpretability.",
       technologies: ["Python", "BERT", "RoBERTa", "AIF360", "SHAP"],
       liveUrl: "#",
-      githubUrl: "#"
+      githubUrl: "https://github.com/Crownedprinz/dual-stage-toxic-comment-detection-system"
     },
     {
-      title: "AI-Based Symptom Checking System", 
-      image: "https://via.placeholder.com/400x200/3498DB/FFFFFF?text=Symptom+Checker",
-      description: "Designed 'expert persona' prompts for a healthcare chatbot, improving diagnostic confidence by 15%. Managed asynchronous API calls for intuitive, human-sounding responses.",
-      technologies: ["Python", "NLP", "Prompt Engineering", "FastAPI"],
-      liveUrl: "#",
-      githubUrl: "#"
+      title: "QuestBot - Interactive Learning Assistant", 
+      image: "https://via.placeholder.com/400x200/3498DB/FFFFFF?text=QuestBot",
+      description: "Developed using Botpress, QuestBot is an intelligent learning assistant that helps users navigate through educational content with interactive conversations and personalized learning paths.",
+      technologies: ["Botpress", "NLP", "Conversational AI", "JavaScript"],
+      liveUrl: "http://crownedprinz.github.io/questBot/",
+      githubUrl: "https://github.com/Crownedprinz/questBot"
     },
     {
-      title: "RAG-based Chatbot with DeepSeek",
-      image: "https://via.placeholder.com/400x200/27AE60/FFFFFF?text=RAG+Chatbot",
-      description: "Developed a RAG-based chatbot with DeepSeek embeddings, improving response accuracy by 25%. Created structured API documentation and prompt libraries.",
-      technologies: ["Python", "RAG", "DeepSeek", "Vector Databases"],
-      liveUrl: "#", 
-      githubUrl: "#"
+      title: "MeetMatrix - Event Management Platform",
+      image: "https://via.placeholder.com/400x200/27AE60/FFFFFF?text=MeetMatrix",
+      description: "MeetMatrix is a user-friendly platform that helps communities organize and participate in events seamlessly. With features tailored for both event organizers and regular users, it bridges gaps in event management by offering a well-structured, dynamic, and efficient interface. Our team utilized FlutterFlow.io for rapid development, ensuring that the platform meets the needs of modern users while maintaining simplicity and functionality.",
+      technologies: ["FlutterFlow", "Dart", "Firebase", "Low-Code Development"],
+      liveUrl: "https://meetmatrix-ttzno3.flutterflow.app/onBoarding", 
+      githubUrl: "https://github.com/Crownedprinz/Meet-Matrix"
     }
   ],
 
