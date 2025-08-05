@@ -100,7 +100,7 @@ const HeroSection = ({ profileData }) => {
               {/* Main image container */}
               <div className="relative bg-white p-2 rounded-2xl shadow-2xl">
                 <img
-                  src="https://via.placeholder.com/400x500/2C3E50/FFFFFF?text=John+Ademola"
+                  src="https://res.cloudinary.com/bloydintelligi/image/upload/v1754363471/Jay/IMG_0498_gnbsjx.jpg"
                   alt={profileData.name}
                   className="w-80 h-96 object-cover rounded-xl"
                 />
