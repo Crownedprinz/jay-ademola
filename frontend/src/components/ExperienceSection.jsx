@@ -17,7 +17,7 @@ const ExperienceSection = ({ profileData }) => {
           </p>
         </div>
 
-        <Tabs value="experience" className="w-full">
+        <Tabs defaultValue="education" className="w-full">
           <TabsList className="grid w-full grid-cols-2 mb-8">
             <TabsTrigger value="education" className="flex items-center space-x-2">
               <GraduationCap className="w-4 h-4" />
