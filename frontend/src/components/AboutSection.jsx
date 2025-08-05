@@ -65,7 +65,9 @@ const AboutSection = ({ profileData }) => {
             </Card>
 
             {/* Download Resume Button */}
-            <Button className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded-lg font-semibold transition-all duration-300 transform hover:scale-105 flex items-center space-x-2">
+            <Button className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded-lg font-semibold transition-all duration-300 transform hover:scale-105 flex items-center space-x-2"
+              onClick={() => window.open(profileData.contact.resume, '_blank')}
+            >
               <Download className="w-5 h-5" />
               <span>Download Resume</span>
             </Button>
