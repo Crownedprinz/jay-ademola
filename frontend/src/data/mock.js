@@ -164,7 +164,8 @@ From architecting cloud-native solutions that reduced infrastructure costs by 25
     phone: "+1 (682) 372-6624", 
     address: "Fort Wayne, Indiana",
     linkedin: "http://linkedin.com/in/ademolajhon",
-    github: "https://github.com/johnademo"
+    github: "http://github.com/crownedprinz",
+    resume: "https://drive.google.com/file/d/19viiL_95Q_Vs8MFqedSIFBplOq2cwkO9/view?usp=share_link"
   }
 };
 
