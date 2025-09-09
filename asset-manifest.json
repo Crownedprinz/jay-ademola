@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jay-ademola/static/css/main.f03ffd64.css",
+    "main.js": "/jay-ademola/static/js/main.8c73b202.js",
+    "index.html": "/jay-ademola/index.html",
+    "main.f03ffd64.css.map": "/jay-ademola/static/css/main.f03ffd64.css.map",
+    "main.8c73b202.js.map": "/jay-ademola/static/js/main.8c73b202.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f03ffd64.css",
+    "static/js/main.8c73b202.js"
+  ]
+}
