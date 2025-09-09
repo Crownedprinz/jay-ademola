@@ -165,7 +165,7 @@ From architecting cloud-native solutions that reduced infrastructure costs by 25
     address: "Fort Wayne, Indiana",
     linkedin: "http://linkedin.com/in/ademolajhon",
     github: "http://github.com/crownedprinz",
-    resume: "https://drive.google.com/file/d/19viiL_95Q_Vs8MFqedSIFBplOq2cwkO9/view?usp=share_link"
+    resume: "https://drive.google.com/file/d/152qDnvmYFYzhHlnT30XIPEG3lJ81JEdl/view?usp=sharing"
   }
 };
 
