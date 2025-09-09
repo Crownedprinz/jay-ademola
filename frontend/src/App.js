@@ -64,7 +64,7 @@ const Portfolio = () => {
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename="/jay-ademola">
         <Routes>
           <Route path="/" element={<Portfolio />} />
         </Routes>
