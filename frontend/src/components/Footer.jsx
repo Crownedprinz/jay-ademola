@@ -87,10 +87,6 @@ const Footer = ({ profileData }) => {
                   <span className="text-sm">{profileData.contact.email}</span>
                 </p>
                 <p className="flex items-start space-x-2">
-                  <div className="w-4 h-4 mt-1 flex-shrink-0 text-center">📱</div>
-                  <span className="text-sm">{profileData.contact.phone}</span>
-                </p>
-                <p className="flex items-start space-x-2">
                   <div className="w-4 h-4 mt-1 flex-shrink-0 text-center">📍</div>
                   <span className="text-sm">{profileData.contact.address}</span>
                 </p>

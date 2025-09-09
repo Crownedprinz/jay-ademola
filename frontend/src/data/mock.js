@@ -6,7 +6,6 @@ export const profileData = {
   tagline: "Specializing in Prompt Engineering, NLP, and RAG Systems",
   location: "Fort Wayne, IN",
   email: "ademolajhon@gmail.com",
-  phone: "+1 (682) 372-6624",
   quote: "If you can't explain it simply, you don't understand it well enough — Albert Einstein",
   
   // Hero Section
@@ -161,7 +160,6 @@ From architecting cloud-native solutions that reduced infrastructure costs by 25
   // Contact Info
   contact: {
     email: "ademolajhon@gmail.com",
-    phone: "+1 (682) 372-6624", 
     address: "Fort Wayne, Indiana",
     linkedin: "http://linkedin.com/in/ademolajhon",
     github: "http://github.com/crownedprinz",

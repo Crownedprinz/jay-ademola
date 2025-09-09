@@ -7,7 +7,6 @@ import { Label } from './ui/label';
 import { useToast } from '../hooks/use-toast';
 import { 
   Mail, 
-  Phone, 
   MapPin, 
   Send, 
   Github, 
@@ -87,17 +86,6 @@ const ContactSection = ({ profileData }) => {
                   </div>
                 </div>
 
-                <div className="flex items-center space-x-4">
-                  <div className="flex-shrink-0 w-12 h-12 bg-green-100 rounded-lg flex items-center justify-center">
-                    <Phone className="w-6 h-6 text-green-600" />
-                  </div>
-                  <div>
-                    <p className="text-sm text-gray-500">Call Me</p>
-                    <p className="font-semibold text-gray-900">
-                      {profileData.contact.phone}
-                    </p>
-                  </div>
-                </div>
 
                 <div className="flex items-center space-x-4">
                   <div className="flex-shrink-0 w-12 h-12 bg-orange-100 rounded-lg flex items-center justify-center">
